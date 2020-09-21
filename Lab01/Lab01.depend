@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600645238 source:c:\users\51972\desktop\lab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Nodo.h"
+	"Grafo.h"
+	<iostream>
+
+1600373722 source:c:\users\51972\desktop\lab01\nodo.cpp
+	"Nodo.h"
+
+1600373722 c:\users\51972\desktop\lab01\nodo.h
+	<iostream>
+
+1600645065 source:c:\users\51972\desktop\lab01\grafo.cpp
+	"Grafo.h"
+
+1600643576 c:\users\51972\desktop\lab01\grafo.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<queue>
+	<list>
+	"Nodo.h"
+
